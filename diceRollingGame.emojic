@@ -1,0 +1,18 @@
+🍇 🍉
+
+🏁 🍇
+  🔤How many dice do you want to roll? 🔤➡️❓🍇✏️diceCount🍉
+  🔤How many sides should each die have? (e.g., 6) 🔤➡️❓🍇✏️dieSides🍉
+
+  🔤🎲 Rolling the dice! 🎲🔤➡️🖨
+
+  🏰 0 ➡️✏️totalScore
+
+  ❗️✏️diceCount 🍇
+    🏰 🍇1 ➡️✏️dieResult🍉🍇dieSides 🍉🔢🔢➡️✏️dieResult
+    🔤🎲 Die: 🔤 ✏️dieResult ➡️🖨
+    ✏️totalScore ➕ ✏️dieResult ➡️✏️totalScore
+  ❗️🍉
+
+  🔤🎉 Total Score: 🔤✏️totalScore➡️🖨
+🍉
